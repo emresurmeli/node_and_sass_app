@@ -1,0 +1,22 @@
+{
+  "private": true,
+  "name": "node_sass_project",
+  "version": "1.0.0",
+  "description": "node_sass_project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Emre Surmeli",
+  "license": "ISC",
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-watch": "^0.6.1",
+    "grunt-sass": "^0.17.0"
+  },
+  "dependencies": {
+    "ejs": "^2.2.3",
+    "express": "^4.11.1",
+    "jade": "^1.9.1"
+  }
+}
